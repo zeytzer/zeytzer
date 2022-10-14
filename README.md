@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-x   I’m currently working on Java, Python, Node.js
-x   I’m currently learning Java, Node.js
+`I’m currently working on Java, Python, Node.js`
+`I’m currently learning Java, Node.js`
 
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=zeytzer&show_icons=true&theme=radical)

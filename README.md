@@ -2,6 +2,6 @@
 
 >I’m currently working on JS, ReactJS, NextJS, Tailwind CSS
 <br /><br />
->I’m currently learning NodeJS, NextJS
+>I’m currently learning NodeJS, NextJS, TypeScript
 <br /><br />
 
